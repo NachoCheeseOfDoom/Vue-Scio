@@ -2,7 +2,7 @@
   <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Soy Nacho" />
   <HelloWorld class="message-test" myName="Ignacio" />
-  <HelloWorld age="23" />
+  <HelloWorld age="24" />
   <!-- <HelloWorld class="message-test" msg="Prueba" /> -->
 </template>
 
