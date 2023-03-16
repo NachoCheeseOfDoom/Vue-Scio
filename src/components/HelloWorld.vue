@@ -3,7 +3,6 @@
     <h1>{{ msg }}</h1>
     <h2>{{ myName }}</h2>
     <h3>{{ age }}</h3>
-    <button>click me</button>
   </div>
 </template>
 
